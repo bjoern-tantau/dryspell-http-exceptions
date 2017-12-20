@@ -1,0 +1,19 @@
+{
+    "name": "dryspell/http-exceptions",
+    "description": "Useful exceptions to indicate a HTTP error.",
+    "require-dev": {
+        "phpunit/phpunit": "^6.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dryspell\\Http\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Björn Tantau",
+            "email": "bjoern@bjoern-tantau.de"
+        }
+    ],
+    "require": {}
+}
